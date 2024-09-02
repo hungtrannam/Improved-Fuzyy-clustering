@@ -1,1 +1,1 @@
-# Improvind-Fuzyy-clustering
+# Improved-Fuzyy-clustering
